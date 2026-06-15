@@ -20,6 +20,7 @@ Each entry in this notebook represents a specific curiosity. Inside each folder,
 | :--- | :--- | :--- | :--- |
 | **01** | [Kaprekar's Constant (6174)](./episode-01-kaprekar/) | [code.py](./episode-01-kaprekar/code.py) | [Explore](./episode-01-kaprekar/explanation.md) |
 | **02** | [Fair Sampling from an Infinite Stream](./episode-02-reservoir-sampling/) | [code.py](./episode-02-reservoir-sampling/code.py) · [code.js](./episode-02-reservoir-sampling/code.js) | [Explore](./episode-02-reservoir-sampling/explanation.md) |
+| **06** | [Counting a Billion Things With a Few Kilobytes (HyperLogLog)](./episode-06-hyperloglog/) | [code.py](./episode-06-hyperloglog/code.py) · [code.js](./episode-06-hyperloglog/code.js) | [Explore](./episode-06-hyperloglog/explanation.md) |
 
 ---
 

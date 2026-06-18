@@ -20,6 +20,11 @@ Each entry in this notebook represents a specific curiosity. Inside each folder,
 | :--- | :--- | :--- | :--- |
 | **01** | [Kaprekar's Constant (6174)](./episode-01-kaprekar/) | [code.py](./episode-01-kaprekar/code.py) | [Explore](./episode-01-kaprekar/explanation.md) |
 | **02** | [Fair Sampling from an Infinite Stream](./episode-02-reservoir-sampling/) | [code.py](./episode-02-reservoir-sampling/code.py) · [code.js](./episode-02-reservoir-sampling/code.js) | [Explore](./episode-02-reservoir-sampling/explanation.md) |
+| **03** | [The Array That Secretly Has Cycles](./episode-03-find-duplicate-cycle/) | [code.py](./episode-03-find-duplicate-cycle/code.py) · [code.js](./episode-03-find-duplicate-cycle/code.js) | [Explore](./episode-03-find-duplicate-cycle/explanation.md) |
+| **04a** | [The Data Structure That Never Lies About Absence](./episode-04-bloom-filter/) | [code.py](./episode-04-bloom-filter/code.py) · [code.js](./episode-04-bloom-filter/code.js) | [Explore](./episode-04-bloom-filter/explanation.md) |
+| **04b** | [The Ring That Keeps Distributed Systems Sane](./episode-04-consistent-hashing/) | [code.py](./episode-04-consistent-hashing/code.py) · [code.js](./episode-04-consistent-hashing/code.js) | [Explore](./episode-04-consistent-hashing/explanation.md) |
+| **04c** | [The Vote That Can't Be Cheated (Boyer-Moore)](./episode-04-majority-vote/) | [code.py](./episode-04-majority-vote/code.py) · [code.js](./episode-04-majority-vote/code.js) | [Explore](./episode-04-majority-vote/explanation.md) |
+| **05** | [The Counter That Doesn't Count](./episode-05-hyperloglog/) | [code.py](./episode-05-hyperloglog/code.py) · [code.js](./episode-05-hyperloglog/code.js) | [Explore](./episode-05-hyperloglog/explanation.md) |
 
 ---
 

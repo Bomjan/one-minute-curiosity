@@ -20,6 +20,12 @@ Each entry in this notebook represents a specific curiosity. Inside each folder,
 | :--- | :--- | :--- | :--- |
 | **01** | [Kaprekar's Constant (6174)](./episode-01-kaprekar/) | [code.py](./episode-01-kaprekar/code.py) | [Explore](./episode-01-kaprekar/explanation.md) |
 | **02** | [Fair Sampling from an Infinite Stream](./episode-02-reservoir-sampling/) | [code.py](./episode-02-reservoir-sampling/code.py) · [code.js](./episode-02-reservoir-sampling/code.js) | [Explore](./episode-02-reservoir-sampling/explanation.md) |
+| **03** | [The Array That Secretly Has Cycles](./episode-03-find-duplicate-cycle/) | [code.py](./episode-03-find-duplicate-cycle/code.py) | [Explore](./episode-03-find-duplicate-cycle/explanation.md) |
+| **04** | [Boyer-Moore Majority Vote](./episode-04-majority-vote/) | [code.py](./episode-04-majority-vote/code.py) · [code.js](./episode-04-majority-vote/code.js) | [Explore](./episode-04-majority-vote/explanation.md) |
+| **04** | [Consistent Hashing — The Ring That Keeps Distributed Systems Sane](./episode-04-consistent-hashing/) | [code.py](./episode-04-consistent-hashing/code.py) | [Explore](./episode-04-consistent-hashing/explanation.md) |
+| **04** | [The Data Structure That Never Lies About Absence (Bloom Filter)](./episode-04-bloom-filter/) | [code.py](./episode-04-bloom-filter/code.py) | [Explore](./episode-04-bloom-filter/explanation.md) |
+| **05** | [The Celebrity Problem — O(n) Elimination Search](./episode-05-celebrity-problem/) | [code.py](./episode-05-celebrity-problem/code.py) · [code.js](./episode-05-celebrity-problem/code.js) | [Explore](./episode-05-celebrity-problem/explanation.md) |
+| **06** | [The Tree That Catches a Single Flipped Bit (Merkle Trees)](./episode-06-merkle-trees/) | [code.py](./episode-06-merkle-trees/code.py) · [code.js](./episode-06-merkle-trees/code.js) | [Explore](./episode-06-merkle-trees/explanation.md) |
 
 ---
 

@@ -1,6 +1,6 @@
 # <img src="./assets/branding/logo.png" width="40" height="40" align="center" style="border-radius: 50%;" /> One-Minute Curiosity - Laboratory Notebook
 
-[![Social Preview](./assets/branding/social-preview.png)](https://github.com/sundrabomjan/one-minute-curiosity)
+[![Social Preview](./assets/branding/social-preview.png)](https://github.com/Bomjan/one-minute-curiosity)
 
 > **"Code is a window into curiosity."** 
 > This repository is a clean, organized archive of experiments, puzzles, and code-based insights shared on the **One-Minute Curiosity** TikTok channel.
@@ -10,7 +10,7 @@
 ## The Laboratory Index
 
 Each entry in this notebook represents a specific curiosity. Inside each folder, you will find:
-- `code.py`: The cleanest, most minimal logic used in the video.
+- `code.py` or `code.java`: The cleanest, most minimal logic used in the video.
 - `explanation.md`: A deep dive into the "Why" and "How."
 - `visual.png`: Quick visual reference (where applicable).
 
@@ -20,6 +20,10 @@ Each entry in this notebook represents a specific curiosity. Inside each folder,
 | :--- | :--- | :--- | :--- |
 | **01** | [Kaprekar's Constant (6174)](./episode-01-kaprekar/) | [code.py](./episode-01-kaprekar/code.py) | [Explore](./episode-01-kaprekar/explanation.md) |
 | **02** | [Fair Sampling from an Infinite Stream](./episode-02-reservoir-sampling/) | [code.py](./episode-02-reservoir-sampling/code.py) · [code.js](./episode-02-reservoir-sampling/code.js) | [Explore](./episode-02-reservoir-sampling/explanation.md) |
+| **03** | [The Array That Secretly Has Cycles](./episode-03-find-duplicate-cycle/) | [code.py](./episode-03-find-duplicate-cycle/code.py) · [code.js](./episode-03-find-duplicate-cycle/code.js) | [Explore](./episode-03-find-duplicate-cycle/explanation.md) |
+| **04** | [Consistent Hashing](./episode-04-consistent-hashing/) | [code.py](./episode-04-consistent-hashing/code.py) · [code.js](./episode-04-consistent-hashing/code.js) | [Explore](./episode-04-consistent-hashing/explanation.md) |
+| **05** | [Who's the Celebrity?](./episode-05-celebrity-problem/) | [code.py](./episode-05-celebrity-problem/code.py) · [code.js](./episode-05-celebrity-problem/code.js) | [Explore](./episode-05-celebrity-problem/explanation.md) |
+| **06** | [Morris Traversal: A Tree Without a Stack](./episode-06-morris-traversal/) | [code.java](./episode-06-morris-traversal/code.java) | [Explore](./episode-06-morris-traversal/explanation.md) |
 
 ---
 
@@ -30,7 +34,7 @@ Each entry in this notebook represents a specific curiosity. Inside each folder,
    git clone https://github.com/sundrabomjan/one-minute-curiosity.git
    ```
 2. **Standardized Folders**: Use hyphenated-lower-case for names.
-3. **Run Anything**: Usually just `python code.py`.
+3. **Run Anything**: Python episodes use `python3 code.py`; Java episodes use `javac code.java && java code`.
 
 ## Standards
 To keep the lab clean and high-quality, we follow a strict documentation standard. See [CONTRIBUTING.md](./CONTRIBUTING.md) for the blueprint.

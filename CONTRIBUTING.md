@@ -8,10 +8,13 @@ Example: `episode-04-fibonacci-chaos`
 
 ## File Requirements
 
-### 1. `code.py`
+### 1. Runnable code (`code.py` or `code.java`)
 - **Minimalist**: Only the essential logic shown in the video.
 - **Humanized Comments**: Explain the *intent*, not just the syntax.
 - **Top-Level Entry**: Must be runnable without complex setups.
+- **Python**: Run with `python3 code.py`.
+- **Java**: Use `code.java` with matching `public class code`; run with `javac code.java && java code`.
+- **Optional**: Add `code.js` for a JavaScript version when useful.
 
 ### 2. `explanation.md`
 - **The Hook**: Start with a 1-sentence summary of the curiosity.

@@ -27,7 +27,7 @@ Now flip position 5:
 ```text
 Original:  1100110
 Received:  1110110
-                ^ position 5 (count from the right)
+Bit flipped: position 5 (count from the right)
 ```
 
 Parity group 1 fails, group 2 passes, and group 4 fails. Add the failed group numbers: **1 + 4 = 5**. This is the *syndrome*: the position to flip back.
